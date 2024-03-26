@@ -1,0 +1,14 @@
+.grid-view {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* Adjust the number of columns as needed */
+    gap: 20px; /* Adjust the gap between items as needed */
+  }
+  
+  .grid-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+
+  
+  
